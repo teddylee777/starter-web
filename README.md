@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 This is a sample code
 Adding a line for a rebase
-
+, then more changes from myfeature branch
 
 ## Second Level Heading
 
