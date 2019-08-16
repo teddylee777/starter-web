@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 # First Level Heading
 
 This is a sample code
+Adding a line for a rebase
 
 
 ## Second Level Heading
