@@ -28,6 +28,6 @@ last editing
 
 this is from working directory
 
-2019 copyright
+2019 copyright All rights reserved.
 
 add text to readme
